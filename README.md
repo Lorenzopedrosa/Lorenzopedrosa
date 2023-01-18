@@ -2,7 +2,7 @@ Me chamo Lorenzo Pedrosa.
 
 - 🔭 Trabalho com: Java, Python, HTML, CSS, JAVASCRIPT 
 - 🌱 Estudando Ruby
-- 📫 Contate me: lorenzopedrosa1@gmail.com ou Via WhatsApp (63) 98488-5319
+- 📫 Contate me: lorenzopedrosa1@gmail.com ou Via WhatsApp (63) 99288-3210
 
 
 <img align="center" width="150" src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" />
