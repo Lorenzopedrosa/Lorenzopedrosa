@@ -1,6 +1,6 @@
 Me chamo Lorenzo Pedrosa.
 
-- 🔭 Trabalho com: Java, Python, HTML, CSS, JAVASCRIPT 
+- 🔭 Trabalho com: Java, Python, HTML, CSS, JAVASCRIPT, Angular, TypeScript, PowerBI.
 - 🌱 Estudando Ruby
 - 📫 Contate me: lorenzopedrosa1@gmail.com ou Via WhatsApp (63) 99288-3210
 
